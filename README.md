@@ -1,4 +1,11 @@
-## Hi there 👋
+# Olá pessoal, sejam bem vindos ao meu GitHub !!! 👋
+## 🌍 Eu chamo, Adriana Barcelar e moro em São Paulo
+
+🖥️ Sou formado em Análise de Desenvolvimento de Sistemas pelo [ENIAC]
+
+👩‍💼 Atualmente trabalho como Analista de Suporte
+
+📚 Estou me atualizando para meus conhecimentos e investindo em minha carreira
 
 <!--
 **adriananb/adriananb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
