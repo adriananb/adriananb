@@ -1,9 +1,9 @@
 # Olá pessoal, sejam bem vindos ao meu GitHub !!! 👋
-## 🌍 Eu chamo, Adriana Barcelar e moro em São Paulo
+## 🌍 Eu me chamo, Adriana Barcelar e moro em São Paulo
 
 🖥️ Sou formada em Análise de Desenvolvimento de Sistemas pelo ENIAC
 
-👩‍💼 Atualmente trabalho como Analista de Suporte
+👩‍💼 Trabalho como Analista de Suporte
 
 📚 Estou estudando para ampliar meus conhecimentos. 
 
