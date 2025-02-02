@@ -5,9 +5,13 @@
 
 👩‍💼 Atualmente trabalho como Analista de Suporte
 
-📚 Estou estudando para ampliar meus conhecimentos.
+📚 Estou estudando para ampliar meus conhecimentos. 
 
- <a href="https://www.linkedin.com/in/adriananevesbarcelar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>
+
+ Contato:
+
+<a href="https://www.linkedin.com/in/adriananevesbarcelar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div id="header" align="center">
     <a href="https://github.com/Ahmed-dev-dragon/">
