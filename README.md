@@ -5,7 +5,7 @@
 
 👩‍💼 Atualmente trabalho como Analista de Suporte
 
-📚 Estou estudando para aprimorar meus conhecimentos.
+📚 Estou estudando para ampliar meus conhecimentos.
 
 <div id="header" align="center">
     <a href="https://github.com/Ahmed-dev-dragon/">
