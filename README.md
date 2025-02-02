@@ -7,6 +7,14 @@
 
 📚 Estou me atualizando para meus conhecimentos e investindo em minha carreira
 
+<div id="header" align="center">
+    <a href="https://github.com/Ahmed-dev-dragon/">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="580">
+       </a>
+</div>  
+<div  align="center">
+ 
+
 <!--
 **adriananb/adriananb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
