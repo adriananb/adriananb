@@ -5,7 +5,7 @@
 
 👩‍💼 Trabalho como Analista de Suporte
 
-📚 Estou estudando para ampliar meus conhecimentos. 
+📚 Estou estudando para ampliar meus conhecimentos 
 
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>
 
